@@ -26,4 +26,5 @@ var swiper = new Swiper('.swiper-container',
 		delay: 3400,
 		speed: 300,
 	},
+	
 });
